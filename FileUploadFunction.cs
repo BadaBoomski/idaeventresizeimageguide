@@ -44,6 +44,7 @@ namespace AzureKursusfunction
                 // and we've chosen to save it in a blobstorage
 
                 // --- First create a BlobServiceClient (from the Azure.Storage.Blobs library)
+                // --- From the BlobServiceClient Create a new Blob container with a proper name (like pics, images, etc.)
 
                 // When the blob is created we need to uploade the image to it
 
